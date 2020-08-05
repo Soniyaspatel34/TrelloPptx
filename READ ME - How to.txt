@@ -1,0 +1,4 @@
+Save everything to a folder
+Open code and run.
+
+Powerpoint and image will save in the folder 
